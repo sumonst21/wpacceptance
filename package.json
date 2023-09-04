@@ -8,6 +8,6 @@
     "url": "https://github.com/10up/wpacceptance"
   },
   "dependencies": {
-    "@nesk/puphpeteer": "^1.4.1"
+    "@nesk/puphpeteer": "^1.6.0"
   }
 }
